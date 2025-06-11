@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My formely github account is [@k-kyg](https://github.com/k-kyg)
+My formerly github account is [@k-kyg](https://github.com/k-kyg)
 <!--
 **grakeice/grakeice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

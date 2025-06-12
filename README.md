@@ -3,7 +3,14 @@
 ## Skills 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,react,p5js,html,css,illustrator,photoshop,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,html,css,illustrator,photoshop,vscode&theme=light" />
+  </a>
+</p>
+
+## Studying
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,p5js,swift,blender&theme=light" />
   </a>
 </p>
 

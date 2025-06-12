@@ -1,6 +1,14 @@
-## Hi there 👋
+## grakeice
 
-My formerly github account is [@k-kyg](https://github.com/k-kyg)
+<p align="center"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grakeice&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=grakeice&show_icons=ture" />
+</p>
+<p align="center">
+  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=grakeice" />
+</p>
+
+
 <!--
 **grakeice/grakeice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
